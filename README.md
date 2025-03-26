@@ -4,8 +4,8 @@ I'm a passionate software developer with a knack for problem-solving and creatin
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Python, JavaScript, TypeScript, Java, C++
-- **Frameworks:** React, Node.js, Django, Spring Boot
+- **Languages:** JavaScript, TypeScript, PHP, Python, Ruby, R, C#
+- **Frameworks / Libraries:** React, Vue, Node.js, Laravel (Livewire), Django, Flask, Ruby on Rails
 - **Tools:** Git, Docker, Kubernetes, Jenkins, GitHub Actions
 - **Databases:** MySQL, PostgreSQL, MongoDB, Redis
 
@@ -16,14 +16,13 @@ I'm a passionate software developer with a knack for problem-solving and creatin
 
 ## 🌱 Learning & Growth
 
-- Currently learning about blockchain technology and its applications.
+- Currently learning about AI blockchain technology and its applications.
 - Exploring advanced machine learning techniques and data science.
 
 ## 📫 How to reach me
 
-- **Email:** shenlongdev@example.com
-- **LinkedIn:** [ShenlongDev](https://www.linkedin.com/in/shenlongdev)
-- **Twitter:** [@ShenlongDev](https://twitter.com/ShenlongDev)
+- **Email:** super0116.dev@gmail.com
+- **LinkedIn:** [ShenlongDev](https://www.linkedin.com/in/ian-esguierra-635239354/)
 
 ## 💬 Let's Connect!
 
