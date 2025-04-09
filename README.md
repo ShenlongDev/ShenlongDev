@@ -21,9 +21,6 @@ I'm a passionate software developer with a knack for problem-solving and creatin
 
 ## 📫 How to reach me
 
-- **Email:** ianesg.94@gmail.com
-- **LinkedIn:** [ShenlongDev](https://www.linkedin.com/in/ian-esguierra-635239354/)
-
 ## 💬 Let's Connect!
 
 Feel free to reach out if you want to collaborate on a project, need help with something, or just want to chat about technology and development.
