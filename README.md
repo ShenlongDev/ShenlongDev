@@ -20,6 +20,8 @@ I'm a passionate software developer with a knack for problem-solving and creatin
 - Exploring advanced machine learning techniques and data science.
 
 ## 📫 How to reach me
+Mail: super0116.dev@gmail.com
+TG: @rex264
 
 ## 💬 Let's Connect!
 
