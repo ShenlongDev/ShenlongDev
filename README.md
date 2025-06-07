@@ -5,7 +5,7 @@ I'm a passionate software developer with a knack for problem-solving and creatin
 ## 🛠️ Technologies & Tools
 
 - **Languages:** JavaScript, TypeScript, PHP, Python, Ruby, R, C#
-- **Frameworks / Libraries:** React, Vue, Node.js, Laravel (Livewire), Django, Flask, Ruby on Rails
+- **Frameworks / Libraries:** React, Vue, Node.js, Laravel, Django, Flask, Ruby on Rails
 - **Tools:** Git, Docker, Kubernetes, Jenkins, GitHub Actions
 - **Databases:** MySQL, PostgreSQL, MongoDB, Redis
 
