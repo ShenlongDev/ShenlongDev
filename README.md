@@ -21,7 +21,6 @@ I'm a passionate software developer with a knack for problem-solving and creatin
 
 ## 📫 How to reach me
 - **GMAIL:** super0116.dev@gmail.com
-- **TG:** @rex264
 
 ## 💬 Let's Connect!
 
